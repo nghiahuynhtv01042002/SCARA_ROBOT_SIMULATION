@@ -18,6 +18,6 @@ This project involves simulating a SCARA robot using MATLAB. The main objectives
 - Visualized SCARA robot parameters through graphs.
 
 ## Demo
-Click [here]([link_to_youtube_video](https://www.youtube.com/watch?v=VxoRJlvHxY8)) to watch a demo of the project on YouTube.
+Click [here](https://www.youtube.com/watch?v=VxoRJlvHxY8) to watch a demo of the project on YouTube.
 
 
